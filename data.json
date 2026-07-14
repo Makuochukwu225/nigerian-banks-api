@@ -791,5 +791,593 @@
         "slug": "airtel-smartcash-psb-ng",
         "code": "120004",
         "logo": "logos/airtel-smartcash-psb-ng.png"
+    },
+    {
+        "id": 708,
+        "name": "Nombank",
+        "slug": "nombank",
+        "code": "090645",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 709,
+        "name": "First Marina Trust Finance",
+        "slug": "first-marina-trust-finance",
+        "code": "050022",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 710,
+        "name": "3LINE CARD MANAGEMENT LIMITED",
+        "slug": "3line-card-management-limited",
+        "code": "110005",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 711,
+        "name": "5TT MFB",
+        "slug": "5tt-mfb",
+        "code": "090832",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 712,
+        "name": "AACB MFB",
+        "slug": "aacb-mfb",
+        "code": "091013",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 713,
+        "name": "AB Microfinance Bank",
+        "slug": "ab-microfinance-bank",
+        "code": "090270",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 714,
+        "name": "ABOVE ONLY MICROFINANCE BANK",
+        "slug": "above-only-microfinance-bank",
+        "code": "090260",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 715,
+        "name": "ABU MICROFINANCE BANK",
+        "slug": "abu-microfinance-bank",
+        "code": "090197",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 716,
+        "name": "ABULESORO MICROFINANCE BANK LTD",
+        "slug": "abulesoro-microfinance-bank-ltd",
+        "code": "090545",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 717,
+        "name": "ADEYEMI COLLEGE STAFF MICROFINANCE BANK",
+        "slug": "adeyemi-college-staff-microfinance-bank",
+        "code": "090268",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 718,
+        "name": "AFEMAI MFB",
+        "slug": "afemai-mfb",
+        "code": "090518",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 719,
+        "name": "AFOLE MFB",
+        "slug": "afole-mfb",
+        "code": "091017",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 720,
+        "name": "AG Mortgage Bank",
+        "slug": "ag-mortgage-bank",
+        "code": "418",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 721,
+        "name": "AGOSASA MICROFINANCE BANK",
+        "slug": "agosasa-microfinance-bank",
+        "code": "090371",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 722,
+        "name": "AKU DIEWA MFB",
+        "slug": "aku-diewa-mfb",
+        "code": "091009",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 723,
+        "name": "AKUCHUKWU MICROFINANCE BANK LTD",
+        "slug": "akuchukwu-microfinance-bank-ltd",
+        "code": "090561",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 724,
+        "name": "AL-Barakah Microfinance Bank",
+        "slug": "al-barakah-microfinance-bank",
+        "code": "090133",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 725,
+        "name": "ALEKUN MICROFINANCE BANK",
+        "slug": "alekun-microfinance-bank",
+        "code": "090259",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 726,
+        "name": "ALLY MICROFINANCE BANK",
+        "slug": "ally-microfinance-bank",
+        "code": "090548",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 727,
+        "name": "AMAANAH FINANCE",
+        "slug": "amaanah-finance",
+        "code": "050045",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 728,
+        "name": "AMS FINANCE",
+        "slug": "ams-finance",
+        "code": "050048",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 729,
+        "name": "APEKS MICROFINANCE BANK",
+        "slug": "apeks-microfinance-bank",
+        "code": "090143",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 730,
+        "name": "APPLE MICROFINANCE BANK",
+        "slug": "apple-microfinance-bank",
+        "code": "090376",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 731,
+        "name": "ARM MFB",
+        "slug": "arm-mfb",
+        "code": "090816",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 732,
+        "name": "ASHA MFB",
+        "slug": "asha-mfb",
+        "code": "091018",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 733,
+        "name": "ASO Savings & Loans",
+        "slug": "aso-savings-loans",
+        "code": "090001",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 734,
+        "name": "ASPIRE MICROFINANCE BANK LTD",
+        "slug": "aspire-microfinance-bank-ltd",
+        "code": "090544",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 735,
+        "name": "ASPIRE MORTGAGE BANK",
+        "slug": "aspire-mortgage-bank",
+        "code": "070033",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 736,
+        "name": "ASSETS Microfinance Bank",
+        "slug": "assets-microfinance-bank",
+        "code": "090473",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 737,
+        "name": "ATBU Microfinance Bank",
+        "slug": "atbu-microfinance-bank",
+        "code": "090451",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 738,
+        "name": "AVEST MFB",
+        "slug": "avest-mfb",
+        "code": "091012",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 739,
+        "name": "AVVIC MFB",
+        "slug": "avvic-mfb",
+        "code": "090853",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 740,
+        "name": "Abucoop MFB",
+        "slug": "abucoop-mfb",
+        "code": "820",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 741,
+        "name": "Accelerex Network Limited",
+        "slug": "accelerex-network-limited",
+        "code": "090202",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 742,
+        "name": "Accion Microfinance Bank",
+        "slug": "accion-microfinance-bank",
+        "code": "090134",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 743,
+        "name": "Ada Microfinance Bank",
+        "slug": "ada-microfinance-bank",
+        "code": "090483",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 744,
+        "name": "Adamawa Mortgage Bank",
+        "slug": "adamawa-mortgage-bank",
+        "code": "070030",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 745,
+        "name": "Addosser Microfinance Bank",
+        "slug": "addosser-microfinance-bank",
+        "code": "090160",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 746,
+        "name": "Advancly MFB",
+        "slug": "advancly-mfb",
+        "code": "090759",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 747,
+        "name": "Advans La Fayette  Microfinance Bank",
+        "slug": "advans-la-fayette-microfinance-bank",
+        "code": "090155",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 748,
+        "name": "Aella MFB",
+        "slug": "aella-mfb",
+        "code": "090614",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 749,
+        "name": "Afekhafe Microfinance Bank",
+        "slug": "afekhafe-microfinance-bank",
+        "code": "090292",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 750,
+        "name": "Aku Microfinance Bank",
+        "slug": "aku-microfinance-bank",
+        "code": "090531",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 751,
+        "name": "Akwa savings & Loans Limited",
+        "slug": "akwa-savings-loans-limited",
+        "code": "070025",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 752,
+        "name": "Al-Hayat Microfinance Bank",
+        "slug": "al-hayat-microfinance-bank",
+        "code": "090277",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 753,
+        "name": "Alert Microfinance Bank",
+        "slug": "alert-microfinance-bank",
+        "code": "090297",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 754,
+        "name": "Allworkers Microfinance Bank",
+        "slug": "allworkers-microfinance-bank",
+        "code": "090131",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 755,
+        "name": "Alpha Kapital Microfinance Bank",
+        "slug": "alpha-kapital-microfinance-bank",
+        "code": "090169",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 756,
+        "name": "Alpha Morgan Bank",
+        "slug": "alpha-morgan-bank",
+        "code": "000041",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 757,
+        "name": "Alvana Microfinance Bank",
+        "slug": "alvana-microfinance-bank",
+        "code": "090489",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 758,
+        "name": "Amac Microfinance Bank",
+        "slug": "amac-microfinance-bank",
+        "code": "090394",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 759,
+        "name": "Amju Unique Microfinance Bank",
+        "slug": "amju-unique-microfinance-bank",
+        "code": "090180",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 760,
+        "name": "Ampersand Microfinance Bank",
+        "slug": "ampersand-microfinance-bank",
+        "code": "090529",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 761,
+        "name": "Anchorage  Microfinance Bank",
+        "slug": "anchorage-microfinance-bank",
+        "code": "090476",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 762,
+        "name": "Aniocha Microfinance bank",
+        "slug": "aniocha-microfinance-bank",
+        "code": "090469",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 763,
+        "name": "Aramoko Microfinance Bank",
+        "slug": "aramoko-microfinance-bank",
+        "code": "090307",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 764,
+        "name": "Arise Microfinance Bank",
+        "slug": "arise-microfinance-bank",
+        "code": "090282",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 765,
+        "name": "Asset Matrix Microfinance Bank",
+        "slug": "asset-matrix-microfinance-bank",
+        "code": "090287",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 766,
+        "name": "Astrapolaris Microfinance Bank",
+        "slug": "astrapolaris-microfinance-bank",
+        "code": "090172",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 767,
+        "name": "Auchi Microfinance Bank",
+        "slug": "auchi-microfinance-bank",
+        "code": "090264",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 768,
+        "name": "Auchi Poly MFB",
+        "slug": "auchi-poly-mfb",
+        "code": "090817",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 769,
+        "name": "Ave Maria MFB",
+        "slug": "ave-maria-mfb",
+        "code": "090600",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 770,
+        "name": "Avuenegbe MFB",
+        "slug": "avuenegbe-mfb",
+        "code": "090478",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 771,
+        "name": "Aztec Microfinance Bank",
+        "slug": "aztec-microfinance-bank",
+        "code": "090540",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 772,
+        "name": "BAIGE MFB",
+        "slug": "baige-mfb",
+        "code": "090862",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 773,
+        "name": "BALERA MICROFINANCE BANK LTD",
+        "slug": "balera-microfinance-bank-ltd",
+        "code": "090563",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 774,
+        "name": "BANK78 MFB",
+        "slug": "bank78-mfb",
+        "code": "090866",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 775,
+        "name": "BAUCHI CFA MFB",
+        "slug": "bauchi-cfa-mfb",
+        "code": "090387",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 776,
+        "name": "BAYERO MICROFINANCE BANK",
+        "slug": "bayero-microfinance-bank",
+        "code": "090316",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 777,
+        "name": "BC Kash Microfinance Bank",
+        "slug": "bc-kash-microfinance-bank",
+        "code": "090127",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 778,
+        "name": "BETA-ACCESS YELLO",
+        "slug": "beta-access-yello",
+        "code": "100052",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 779,
+        "name": "BIPC Microfinance Bank",
+        "slug": "bipc-microfinance-bank",
+        "code": "090336",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 780,
+        "name": "BISHOPGATE MICROFINANCE BANK",
+        "slug": "bishopgate-microfinance-bank",
+        "code": "090555",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 781,
+        "name": "BLOC MFB",
+        "slug": "bloc-mfb",
+        "code": "090977",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 782,
+        "name": "BLOOMS MFB",
+        "slug": "blooms-mfb",
+        "code": "090743",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 783,
+        "name": "BOCTRUST MICROFINANCE BANK",
+        "slug": "boctrust-microfinance-bank",
+        "code": "090117",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 784,
+        "name": "BOI Microfinance Bank",
+        "slug": "boi-microfinance-bank",
+        "code": "090444",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 785,
+        "name": "BORGU MFB",
+        "slug": "borgu-mfb",
+        "code": "090395",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 786,
+        "name": "BRENT MORTGAGE BANK",
+        "slug": "brent-mortgage-bank",
+        "code": "070015",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 787,
+        "name": "BRETHREN MICROFINANCE BANK",
+        "slug": "brethren-microfinance-bank",
+        "code": "090293",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 788,
+        "name": "BROADVIEW MICROFINANCE BANK LTD",
+        "slug": "broadview-microfinance-bank-ltd",
+        "code": "090568",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 789,
+        "name": "BUBAYERO Microfinance Bank",
+        "slug": "bubayero-microfinance-bank",
+        "code": "090512",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 790,
+        "name": "Baines Credit Microfinance Bank",
+        "slug": "baines-credit-microfinance-bank",
+        "code": "090188",
+        "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 791,
+        "name": "Balogun Fulani Microfinance Bank",
+        "slug": "balogun-fulani-microfinance-bank",
+        "code": "090181",
+        "logo": "logos/bankicon.png"
     }
 ]
