@@ -227,7 +227,7 @@
         "name": "Moniepoint MFB",
         "slug": "moniepoint-mfb-ng",
         "ussd": "*888#",
-        "code": "50515",
+        "code": "090405",
         "logo": "logos/moniepoint-mfb-ng.png"
     },
     {
@@ -1385,7 +1385,13 @@
         "name": "OPay",
         "slug": "opay",
         "code": "305",
-        "logo": "logos/opay.png",
-        "ussd": "*955#"
+        "logo": "logos/opay.png"
+    },
+    {
+        "id": 793,
+        "name": "PalmPay",
+        "slug": "palmpay",
+        "code": "100033",
+        "logo": "logos/palmpay.png"
     }
 ]
