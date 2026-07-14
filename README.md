@@ -1,41 +1,72 @@
 # Nigerian Banks API
-An api that publishes a JSON containing a list of Nigerian Banks and their assets (Logo, USSD etc).
 
-## Usage
-You can use the public endpoint by making a GET request to
+A simple, lightweight API containing details and assets (logos, USSD codes, and bank codes) for all banks operating in Nigeria.
 
+This project allows you to manage the list of banks manually in `data.json`, with a helper script to automatically process and cache remote bank logos locally.
+
+---
+
+## 🚀 API Endpoints
+
+### 1. Bank List JSON
+Get the list of all banks and their assets:
+
+* **Direct GitHub Pages:**
+  ```
+  https://makuochukwu225.github.io/nigerian-banks-api/data.json
+  ```
+* **jsDelivr CDN:**
+  ```
+  https://cdn.jsdelivr.net/gh/makuochukwu225/nigerian-banks-api@main/data.json
+  ```
+
+### 2. Bank Logos
+Fetch bank logos directly by their `slug`:
+
+* **Direct GitHub Pages:**
+  ```
+  https://makuochukwu225.github.io/nigerian-banks-api/logos/{slug}.png
+  ```
+* **jsDelivr CDN:**
+  ```
+  https://cdn.jsdelivr.net/gh/makuochukwu225/nigerian-banks-api@main/logos/{slug}.png
+  ```
+
+---
+
+## 🛠 How It Works & Local Setup
+
+The repository contains a helper script (`index.js`) that automatically processes your manual edits in `data.json` and downloads any remote logos to keep them hosted locally.
+
+### 1. Run the local processor
+To download dependencies and start the watcher/processor:
+```bash
+# Install dependencies (nodemon)
+npm install
+
+# Start the local processor
+npm run dev
 ```
-https://supermx1.github.io/nigerian-banks-api/data.json
-```
-or
 
-Use JSDelivr CDN by making a GET request to
-
-```
-https://cdn.jsdelivr.net/gh/supermx1/nigerian-banks-api@main/data.json
-```
-
-## Logo API Usage
-
-You can visit the logo api endpoint by making a GET request to
-
-```
-https://supermx1.github.io/nigerian-banks-api/logos/{slug}.png
-```
-or
-
-Use JSDelivr CDN by making a GET request to
-
-```
-https://cdn.jsdelivr.net/gh/supermx1/nigerian-banks-api@main/logos/{slug}.png
+### 2. Manually adding a Bank
+To add a bank, open `data.json` and append a new object to the array:
+```json
+{
+    "id": 101,
+    "name": "Example Bank",
+    "slug": "example-bank",
+    "code": "12345",
+    "logo": "https://example.com/remote-logo-url.png",
+    "ussd": "*123#"
+}
 ```
 
-### Note 
-This api is updated every 24 hours. So you can cache the response for 24 hours.
+When you save the file:
+1. The script will detect the change.
+2. It will automatically download the remote logo from `https://example.com/remote-logo-url.png` and save it to `./logos/example-bank.png`.
+3. It will update the `"logo"` field in `data.json` to `"logos/example-bank.png"`.
 
-## Contribute
-To contribute to this project. create an issue and make a request to be added as a contributor. You can also make feature requests and bug reports.
+---
 
-## TODO
-- [ ] Add more banks
-- [ ] Add more bank assets like logos, USSD codes etc# nigerian-banks-api
+## 🤝 Contributing
+Feel free to open an issue or submit a pull request if you want to add more banks, USSD codes, or update existing assets.
