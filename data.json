@@ -1379,5 +1379,13 @@
         "slug": "balogun-fulani-microfinance-bank",
         "code": "090181",
         "logo": "logos/bankicon.png"
+    },
+    {
+        "id": 792,
+        "name": "OPay",
+        "slug": "opay",
+        "code": "950615",
+        "logo": "logos/opay.png",
+        "ussd": "*955#"
     }
 ]
