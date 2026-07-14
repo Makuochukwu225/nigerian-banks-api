@@ -1384,7 +1384,7 @@
         "id": 792,
         "name": "OPay",
         "slug": "opay",
-        "code": "950615",
+        "code": "305",
         "logo": "logos/opay.png",
         "ussd": "*955#"
     }
