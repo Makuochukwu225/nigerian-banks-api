@@ -38,4 +38,4 @@ To contribute to this project. create an issue and make a request to be added as
 
 ## TODO
 - [ ] Add more banks
-- [ ] Add more bank assets like logos, USSD codes etc
+- [ ] Add more bank assets like logos, USSD codes etc# nigerian-banks-api
